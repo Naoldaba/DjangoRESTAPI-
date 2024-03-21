@@ -1,0 +1,2 @@
+virutalenv env
+env\\Scripts\\activate
